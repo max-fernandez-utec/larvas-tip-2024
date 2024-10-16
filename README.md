@@ -17,3 +17,18 @@ Es un juego de plataformas lateral por turnos dónde un equipo de larvas ataca a
 ![Captura del worms](doc/worms02.jpg "Captura del worms")
 
 ![Ejemplo de armas](doc/worms03.png "Ejemplo de armas")
+
+## Alcance
+
+Tener funcional una pantalla dónde dos equipos de larvas, controlados por personas de forma local, puedan competir entre ellos. Los equipos de larvas deben estar compuestos por 4 larvas cada uno, con nombres aleatorios. Al inicio del partido se ubican de forma aleatoria en el terreno. Al menos debe existir la bazooka como arma.
+
+## Hitos
+
+ - [x] Armado de repositorio / proyecto.
+ - [x] Generar documento de diseño.
+ - [ ] Poder disparar en distintos ángulos. (Sistema vectorial de movimiento).
+ - [ ] La bala debe ser afectada por la gravedad, la fricción y el viento. (Motor físico inercial)
+ - [ ] Gestión de turnos y equipos.
+ - [ ] Terreno.
+ - [ ] Generación de terreno aleatoria.
+ - [ ] Terreno destruíble.
