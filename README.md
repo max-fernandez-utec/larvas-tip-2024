@@ -32,3 +32,17 @@ Tener funcional una pantalla dónde dos equipos de larvas, controlados por perso
  - [ ] Terreno.
  - [ ] Generación de terreno aleatoria.
  - [ ] Terreno destruíble.
+
+## Ejemplo de código
+
+```lua
+function _init()
+    printh "Hola desde larvas"
+end
+
+function _update()
+end
+
+function _draw()
+end
+```
