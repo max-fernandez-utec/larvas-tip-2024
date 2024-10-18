@@ -26,8 +26,10 @@ Tener funcional una pantalla dónde dos equipos de larvas, controlados por perso
 
  - [x] Armado de repositorio / proyecto.
  - [x] Generar documento de diseño.
- - [ ] Poder disparar en distintos ángulos. (Sistema vectorial de movimiento).
+ - [x] Poder disparar en distintos ángulos. (Sistema vectorial de movimiento).
+ - [x] La larva debe poder caminar.
  - [ ] La bala debe ser afectada por la gravedad, la fricción y el viento. (Motor físico inercial)
+ - [ ] La larva debe poder saltar.
  - [ ] Gestión de turnos y equipos.
  - [ ] Terreno.
  - [ ] Control de cámara.
