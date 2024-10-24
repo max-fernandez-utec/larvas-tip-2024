@@ -31,8 +31,8 @@ Tener funcional una pantalla dónde dos equipos de larvas, controlados por perso
  - [ ] La bala debe ser afectada por la gravedad, la fricción y el viento. (Motor físico inercial)
  - [ ] La larva debe poder saltar.
  - [ ] Gestión de turnos y equipos.
- - [ ] Terreno.
- - [ ] Control de cámara.
+ - [x] Terreno.
+ - [x] Control de cámara.
  - [ ] Generación de terreno aleatoria.
  - [ ] Terreno destruíble.
 
